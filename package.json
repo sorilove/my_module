@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sorilove/my_module.git"
+    "url": "git+https://github.com/sorilove/my_sorilove_module.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sorilove/my_module/issues"
+    "url": "https://github.com/sorilove/my_sorilove_module/issues"
   },
-  "homepage": "https://github.com/sorilove/my_module#readme"
+  "homepage": "https://github.com/sorilove/my_sorilove_module#readme"
 }
